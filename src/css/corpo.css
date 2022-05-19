@@ -72,8 +72,17 @@
     color: white;
 }
 
+.whatsapp img {
+    width: 100px;
+    height: 100px;
+    position: relative;
+    margin-right: 220px;
+    margin-top: 20px;
+}
+
 
 .contato {
     display: flex;
     flex-direction: column;
 }
+
