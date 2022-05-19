@@ -1,0 +1,56 @@
+footer {
+    display: flex;
+    justify-content: center;
+    height: 200px;
+    background-color: #302d38;
+    color: white;
+}
+
+.flex-column {
+    flex-direction: column;
+}
+
+.instagram img {
+    
+    width: 30px;
+    height: 30px;
+    margin-right: 10px;
+}
+
+.facebook img {
+    width: 26px;
+    height: 26px;
+}
+
+.linkedin img {
+    
+    width: 30px;
+    height: 30px;
+    margin-right: 10px;
+}
+
+.github img {
+    width: 26px;
+    height: 26px;
+}
+
+.social-icons p {
+    margin-right: 10px;
+    font-size: 25px;
+}
+
+.assinatura p {
+    margin-right: 10px;
+}
+
+.social-icons {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.assinatura {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

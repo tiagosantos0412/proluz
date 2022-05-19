@@ -1,0 +1,13 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    width: 990px;
+    display: flex;
+    justify-content: space-between;
+}

@@ -1,0 +1,51 @@
+@media (min-width: 425px) and (max-width: 767px)  {
+    .banner_headline h1 {
+        font-size: 50px;
+        margin: 108px;
+        margin-bottom: 0px;
+    }
+
+    .banner_headline h2 {
+        font-size: 25px;
+        margin: 108px;
+    }
+
+    .banner_options {
+        height: auto;
+        flex-direction: column;
+    }
+
+    .texto-banner1,
+    .texto-banner2,
+    .texto-banner3,
+    .texto-banner4 {
+        font-size: 14px;
+        width: 100%;
+    }
+
+    .contato {
+        width: 100%;
+        padding: 10px;
+    }
+
+   .contato h1 {
+       font-size: 30px;
+   }
+
+   .contato h2 {
+    font-size: 15px;
+    }
+
+    .footer-cliente {
+        margin-top: 20px;
+    }
+
+    .footer-cliente .social-txt {
+        font-size: 14px;
+    }
+
+    .assinatura p {
+        font-size: 14px;
+    }
+
+}

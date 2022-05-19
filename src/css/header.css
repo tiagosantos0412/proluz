@@ -1,0 +1,41 @@
+header{
+    display: flex;
+    justify-content: center;
+    height: 120px;
+    background-color: #302d38;
+}
+
+.logo {
+    display: flex;
+    align-items: center;
+}
+
+nav ul,
+nav li {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+nav ul {
+    display: flex;
+}
+
+.menu{
+    display: flex;
+    align-items: center;
+}
+
+nav a {
+    display: block;
+    padding: 15px;
+    text-decoration: none;
+    color: white;
+    text-transform: uppercase;
+}
+
+nav a:hover {
+    background-color: white;
+    color: black;
+    transition: 0.5s;
+}
