@@ -2,13 +2,13 @@
     
     .banner_headline h1 {
         font-size: 50px;
-        margin: 108px;
+        padding: 10px;
         margin-bottom: 0px;
     }
 
     .banner_headline h2 {
         font-size: 25px;
-        margin: 108px;
+        padding: 10px;
     }
 
     .banner_options {
