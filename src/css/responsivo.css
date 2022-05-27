@@ -58,3 +58,63 @@
         margin-top: 30px;
     }
 }
+
+@media (min-width: 375px) and (max-width: 425px)  {
+    .banner_headline h1 {
+        font-size: 50px;
+        padding: 10px;
+        margin-bottom: 0px;
+    }
+
+    .banner_headline h2 {
+        font-size: 25px;
+        padding: 10px;
+    }
+
+    .banner_options {
+        height: auto;
+        flex-direction: column;
+    }
+
+    .texto-banner1,
+    .texto-banner2,
+    .texto-banner3,
+    .texto-banner4 {
+        font-size: 14px;
+        width: 100%;
+    }
+
+    .contato {
+        width: 100%;
+        padding: 10px;
+    }
+
+   .contato h1 {
+       font-size: 30px;
+   }
+
+   .contato h2 {
+    font-size: 15px;
+    }
+
+    .footer-cliente {
+        margin-top: 20px;
+    }
+
+    .texto1 {
+        font-size: 14px;
+    }
+    
+
+    .texto2 {
+        font-size: 14px;
+    }
+
+    .whatsapp img {
+        width: 60px;
+        height: 60px;
+        position: relative;
+        margin-right: 120px;
+        margin-top: 30px;
+    }
+}
